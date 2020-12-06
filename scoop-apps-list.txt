@@ -1,0 +1,8 @@
+Installed apps: 
+
+  7zip 19.00 [main]
+  git 2.29.1.windows.1 [main]
+  krita 4.4.1 [extras]
+  libreoffice-stable 7.0.1 [extras]
+  sourcetree 3.3.9 [extras]
+
